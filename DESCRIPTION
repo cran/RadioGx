@@ -1,8 +1,8 @@
 Package: RadioGx
 Type: Package
 Title: Analysis of Large-Scale Radio-Genomic Data
-Version: 0.0.1
-Date: 2019-05-31
+Version: 0.0.2
+Date: 2019-12-19
 Authors@R: c(
   person("Venkata","Manem", email = "mail2mvskumar@gmail.com", 
     role = c("aut")),
@@ -39,7 +39,7 @@ Imports: PharmacoGx, Biobase, RColorBrewer, caTools, magicaxis,
         methods, reshape2, KernSmooth, cluster, Matrix, scales
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-06-17 17:21:50 UTC; chris
+Packaged: 2019-12-19 21:59:41 UTC; ceeles
 Author: Venkata Manem [aut],
   Petr Smirnov [aut],
   Ian Smith [aut],
@@ -49,4 +49,4 @@ Author: Venkata Manem [aut],
   Benjamin Haibe-Kains [aut, cre]
 Maintainer: Benjamin Haibe-Kains <benjamin.haibe.kains@utoronto.ca>
 Repository: CRAN
-Date/Publication: 2019-06-18 15:50:02 UTC
+Date/Publication: 2019-12-19 23:00:02 UTC
